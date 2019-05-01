@@ -12,4 +12,4 @@ while running svm part comment gbm
 and do viceversa for faster execution
 
 
-PS: Run the R code to generate as many plots as you want. I have not attached all the plots in the plot folder as its taking too much of space and will be very difficult to upload over email.
+PS: Run the R code to generate as many plots as you want.
